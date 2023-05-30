@@ -27,7 +27,11 @@ In this visualization, we will use the map of Indonesia as the background. We wi
 
 On the map of Indonesia, we will use color coding or gradients to represent the number of confirmed cases in each province. The higher the number of cases, the more intense the color.
 
-Additionally, we can display a bar chart showing the daily count of new COVID-19 cases. This chart will highlight the trends of increasing or decreasing new cases over time. The bar chart will have a horizontal axis representing time (e.g., dates) and a vertical axis representing the number of new cases.
+We can display a bar chart showing the daily count of new COVID-19 cases in each province. This chart will highlight the trends of increasing or decreasing new cases over time. The bar chart will have a horizontal axis representing time (e.g., dates) and a vertical axis representing the number of new cases.
+
+We can include a text visualization to show the total number of confirmed cases and deaths in each province. This text visualization can be placed prominently on the dashboard, providing a clear and concise overview of the overall impact of COVID-19.
+
+Furthermore, we can create a bar chart specifically focused on the new cases per province. This chart will provide a visual comparison of the number of new cases across different provinces in Indonesia.
 
 ![data_covid](https://github.com/SicilianDefence/tableau-covid-project/assets/45375601/397d85f5-c7d9-4c61-8549-55f1309f6d8c)
 
