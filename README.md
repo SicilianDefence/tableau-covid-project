@@ -2,7 +2,7 @@
 
 Tableau is a powerful data visualization and business intelligence software that helps people understand and analyze data in a visual and interactive way. It allows you to connect to various data sources, such as spreadsheets, databases, or online servers, and transform raw data into meaningful insights through the creation of interactive charts, graphs, and dashboards.
 
-# **What Tableau Used For?**
+# **What is Tableau Used For?**
 
 Tableau is like a data superhero that helps you:
 
@@ -18,3 +18,16 @@ Tableau is like a data superhero that helps you:
 10. Be the data hero: Whether you're in business, finance, healthcare, or any other field, Tableau empowers you to make sense of your data and make a difference. It's like having a superpower that turns data into insights and actions.
 
 So, Tableau is like your trusty sidekick that helps you conquer the data universe and unleash your inner data superhero.
+
+# **COVID INDONESIA ANALYTICS**
+
+COVID-19, also known as the coronavirus disease 2019, is a highly contagious respiratory illness caused by a virus called severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). It was first identified in December 2019 in Wuhan, China and quickly spread worldwide, leading to a global pandemic.
+
+In this visualization, we will use the map of Indonesia as the background. We will gather reliable and validated data on confirmed COVID-19 cases in each province of Indonesia. This data can be obtained from official sources such as the Ministry of Health or other reputable institutions that collect similar data.
+
+On the map of Indonesia, we will use color coding or gradients to represent the number of confirmed cases in each province. The higher the number of cases, the more intense the color.
+
+Additionally, we can display a bar chart showing the daily count of new COVID-19 cases. This chart will highlight the trends of increasing or decreasing new cases over time. The bar chart will have a horizontal axis representing time (e.g., dates) and a vertical axis representing the number of new cases.
+
+![data_covid](https://github.com/SicilianDefence/tableau-covid-project/assets/45375601/397d85f5-c7d9-4c61-8549-55f1309f6d8c)
+
