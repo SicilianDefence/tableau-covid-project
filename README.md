@@ -1,8 +1,8 @@
-**What is Tableau?**
+# **What is Tableau?**
 
 Tableau is a powerful data visualization and business intelligence software that helps people understand and analyze data in a visual and interactive way. It allows you to connect to various data sources, such as spreadsheets, databases, or online servers, and transform raw data into meaningful insights through the creation of interactive charts, graphs, and dashboards.
 
-**What Tableau Used For?**
+# **What Tableau Used For?**
 
 Tableau is like a data superhero that helps you:
 
