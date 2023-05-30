@@ -19,6 +19,9 @@ Tableau is like a data superhero that helps you:
 
 So, Tableau is like your trusty sidekick that helps you conquer the data universe and unleash your inner data superhero.
 
+# **Link Dataset**
+https://www.kaggle.com/datasets/hendratno/covid19-indonesia
+
 # **COVID INDONESIA ANALYTICS**
 
 COVID-19, also known as the coronavirus disease 2019, is a highly contagious respiratory illness caused by a virus called severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). It was first identified in December 2019 in Wuhan, China and quickly spread worldwide, leading to a global pandemic.
