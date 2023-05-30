@@ -36,5 +36,6 @@ We can include a text visualization to show the total number of confirmed cases 
 
 Furthermore, we can create a bar chart specifically focused on the new cases per province. This chart will provide a visual comparison of the number of new cases across different provinces in Indonesia.
 
-![data_covid](https://github.com/SicilianDefence/tableau-covid-project/assets/45375601/397d85f5-c7d9-4c61-8549-55f1309f6d8c)
+![data_covid](https://github.com/SicilianDefence/tableau-covid-project/assets/45375601/0688931c-c9c0-4bf3-b713-3d53c4779337)
+
 
